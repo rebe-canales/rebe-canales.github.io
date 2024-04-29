@@ -7,5 +7,5 @@
 
 ### Projects
 
-#### [Bike sharing business feasibility analysis] (https://github.com/rebe-canales/bike-sharing-regression)
+<h4><a src=https://github.com/rebe-canales/bike-sharing-regression> Bike sharing business feasibility analysis</h4>
 Carried out an analysis of bike rental trends in Cook County (Chicago) to assess the viability of a bike rental business through different regression models. Considering variables such as weather, travel and mobility trends throughout the year.
